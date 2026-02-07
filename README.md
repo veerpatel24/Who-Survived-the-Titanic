@@ -67,13 +67,16 @@ Predictions are formatted for direct submission to Kaggle-style evaluation syste
 ---
 
 ## How to Run
-1. Open the notebook:
-   ```bash
-   NN_Model_for_Who_Survived_The_Titanic.ipynb
+1. Open the files: 
+
 NN_Model_for_Who_Survived_The_Titanic.ipynb
+
 train.csv
+
 test.csv
+
 gender_submission.csv
+
 submission.csv
 
 This notebook serves as:
